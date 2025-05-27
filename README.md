@@ -90,9 +90,3 @@ docker run -it -p 7860:7860 -e LANGCHAIN_API_KEY=$LANGCHAIN_API_KEY -e OPENAI_AP
 ### 许可证
 
 该项目根据 **Apache 2.0** 许可证进行许可。详情请参见 [LICENSE](LICENSE) 文件。
-
-### 联系
-
-项目作者: Django Peng
-
-项目链接: https://github.com/DjangoPeng/ChatPPT
